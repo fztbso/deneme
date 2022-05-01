@@ -1,8 +1,22 @@
-# Deneme
+# Başlık
+## --> h2
+### --> h3
 
-## Alt Bilgi
-fegfoıwrejf fewfoewn few
-fweıfnpwkefm
-fweegwgrhg
+- list item 1
+- list item 2
 
-[lorem ipsum](http://google.com)
+* list item 1
+* list item 2
+
+
+*italic* **bold** ***bolitalic***
+
+[google gitmek için tıklayınız](https://google.com)
+
+![lorem picsum gorsel](link)
+
+***
+
+'''
+print("hello world")
+'''
